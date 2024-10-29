@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "name": "소담촌 수원영통점",
+        "address": "경기 수원시 영통구 청명남로 30",
+        "category": "음식점 > 샤브샤브",
+        "phone": "031-205-9990",
+        "url": "http://place.map.kakao.com/660113539"
+    },
+    {
+        "id": 2,
+        "name": "윤가곰탕",
+        "address": "경기 수원시 영통구 매영로345번길 7",
+        "category": "음식점 > 한식 > 곰탕",
+        "phone": "031-202-2211",
+        "url": "http://place.map.kakao.com/16176930"
+    },
+    {
+        "id": 3,
+        "name": "예랑",
+        "address": "경기 수원시 영통구 매영로345번길 95",
+        "category": "음식점 > 한식",
+        "phone": "031-234-8195",
+        "url": "http://place.map.kakao.com/8018353"
+    },
+    {
+        "id": 4,
+        "name": "쏘삼돼지208 영통점",
+        "address": "경기 수원시 영통구 청명남로34번길 18",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-9208",
+        "url": "http://place.map.kakao.com/139601551"
+    },
+    {
+        "id": 5,
+        "name": "고메스퀘어 영통점",
+        "address": "경기 수원시 영통구 청명남로 40",
+        "category": "음식점 > 뷔페",
+        "phone": "031-206-1357",
+        "url": "http://place.map.kakao.com/1898136333"
+    },
+    {
+        "id": 6,
+        "name": "포명천천",
+        "address": "경기 수원시 영통구 반달로 38",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-204-6445",
+        "url": "http://place.map.kakao.com/21272120"
+    },
+    {
+        "id": 7,
+        "name": "삿뽀로 수원영통점",
+        "address": "경기 수원시 영통구 반달로 31",
+        "category": "음식점 > 일식 > 일식집",
+        "phone": "031-205-7797",
+        "url": "http://place.map.kakao.com/10518602"
+    },
+    {
+        "id": 8,
+        "name": "태백한우실비",
+        "address": "경기 수원시 영통구 매영로345번길 7",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "070-7755-1584",
+        "url": "http://place.map.kakao.com/27413211"
+    },
+    {
+        "id": 9,
+        "name": "보영만두 영통직영점",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 분식",
+        "phone": "031-206-5566",
+        "url": "http://place.map.kakao.com/11924452"
+    },
+    {
+        "id": 10,
+        "name": "그로또 영통점",
+        "address": "경기 수원시 영통구 청명북로 2",
+        "category": "음식점 > 양식 > 이탈리안",
+        "phone": "031-205-7220",
+        "url": "http://place.map.kakao.com/14513092"
+    },
+    {
+        "id": 11,
+        "name": "초밥쟁이 영통점",
+        "address": "경기 수원시 영통구 반달로 98",
+        "category": "음식점 > 일식 > 초밥,롤",
+        "phone": "031-204-2005",
+        "url": "http://place.map.kakao.com/98282445"
+    },
+    {
+        "id": 12,
+        "name": "아웃백스테이크하우스 수원영통점",
+        "address": "경기 수원시 영통구 봉영로 1613",
+        "category": "음식점 > 패밀리레스토랑 > 아웃백스테이크하우스딜리버리",
+        "phone": "031-205-9252",
+        "url": "http://place.map.kakao.com/21507270"
+    },
+    {
+        "id": 13,
+        "name": "보약족발",
+        "address": "경기 수원시 영통구 청명로77번길 33",
+        "category": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+        "phone": "031-203-8088",
+        "url": "http://place.map.kakao.com/488755117"
+    },
+    {
+        "id": 14,
+        "name": "수원의아침",
+        "address": "경기 수원시 영통구 매영로345번길 95",
+        "category": "음식점 > 간식 > 제과,베이커리",
+        "phone": "031-273-9885",
+        "url": "http://place.map.kakao.com/852221639"
+    },
+    {
+        "id": 15,
+        "name": "징기스 수원영통점",
+        "address": "경기 수원시 영통구 청명남로12번길 16",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-202-9398",
+        "url": "http://place.map.kakao.com/2076595585"
+    },
+    {
+        "id": 16,
+        "name": "양푼애등갈비 수원영통점",
+        "address": "경기 수원시 영통구 청명남로4번길 5-4",
+        "category": "음식점 > 한식 > 육류,고기 > 갈비",
+        "phone": "031-202-9638",
+        "url": "http://place.map.kakao.com/693395556"
+    },
+    {
+        "id": 17,
+        "name": "육풍 영통프라임점",
+        "address": "경기 수원시 영통구 매영로393번길 31",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-0505",
+        "url": "http://place.map.kakao.com/1500671822"
+    },
+    {
+        "id": 18,
+        "name": "돼지새마을본부 영통점",
+        "address": "경기 수원시 영통구 영일로21번길 8-17",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-305-9112",
+        "url": "http://place.map.kakao.com/789304599"
+    },
+    {
+        "id": 19,
+        "name": "김래하닭갈비",
+        "address": "경기 수원시 영통구 청명남로50번길 21-1",
+        "category": "음식점 > 한식 > 육류,고기 > 닭요리",
+        "phone": "031-206-0906",
+        "url": "http://place.map.kakao.com/718131884"
+    },
+    {
+        "id": 20,
+        "name": "장인족발608 영통직영점",
+        "address": "경기 수원시 영통구 매영로393번길 33",
+        "category": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+        "phone": "031-202-1214",
+        "url": "http://place.map.kakao.com/20634488"
+    },
+    {
+        "id": 21,
+        "name": "하나참치",
+        "address": "경기 수원시 영통구 청명남로34번길 21",
+        "category": "음식점 > 일식 > 참치회",
+        "phone": "031-231-1137",
+        "url": "http://place.map.kakao.com/27347247"
+    },
+    {
+        "id": 22,
+        "name": "수타원",
+        "address": "경기 수원시 영통구 봉영로1482번길 6",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-205-6500",
+        "url": "http://place.map.kakao.com/66170201"
+    },
+    {
+        "id": 23,
+        "name": "경복궁 수원점",
+        "address": "경기 수원시 영통구 반달로 31",
+        "category": "음식점 > 한식 > 한정식 > 경복궁",
+        "phone": "031-205-7778",
+        "url": "http://place.map.kakao.com/8186248"
+    },
+    {
+        "id": 24,
+        "name": "이가네양꼬치 영통점",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 중식 > 양꼬치 > 이가네양꼬치",
+        "phone": "031-204-3188",
+        "url": "http://place.map.kakao.com/587663496"
+    },
+    {
+        "id": 25,
+        "name": "아름다운땅",
+        "address": "경기 수원시 영통구 청명남로4번길 2",
+        "category": "음식점 > 양식 > 이탈리안",
+        "phone": "031-204-8875",
+        "url": "http://place.map.kakao.com/21510716"
+    },
+    {
+        "id": 26,
+        "name": "대도수산",
+        "address": "경기 수원시 영통구 매영로345번길 7",
+        "category": "음식점 > 한식 > 해물,생선 > 회",
+        "phone": "031-234-7953",
+        "url": "http://place.map.kakao.com/13093348"
+    },
+    {
+        "id": 27,
+        "name": "황소가 한우곱창&전골",
+        "address": "경기 수원시 영통구 청명남로28번길 20",
+        "category": "음식점 > 한식 > 육류,고기 > 곱창,막창",
+        "phone": "031-273-4492",
+        "url": "http://place.map.kakao.com/1054794335"
+    },
+    {
+        "id": 28,
+        "name": "두꺼비집부대찌개 영통점",
+        "address": "경기 수원시 영통구 반달로 32",
+        "category": "음식점 > 한식",
+        "phone": "031-202-4267",
+        "url": "http://place.map.kakao.com/8945153"
+    },
+    {
+        "id": 29,
+        "name": "유쾌한회세꼬시 영통직영점",
+        "address": "경기 수원시 영통구 청명남로50번길 5-8",
+        "category": "음식점 > 한식 > 해물,생선 > 회",
+        "phone": "031-308-3772",
+        "url": "http://place.map.kakao.com/2071161989"
+    },
+    {
+        "id": 30,
+        "name": "닷지",
+        "address": "경기 수원시 영통구 청명북로7번길 17",
+        "category": "음식점 > 술집 > 호프,요리주점",
+        "phone": "",
+        "url": "http://place.map.kakao.com/27349575"
+    },
+    {
+        "id": 31,
+        "name": "이루카",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 초밥,롤",
+        "phone": "010-2243-5078",
+        "url": "http://place.map.kakao.com/212172803"
+    },
+    {
+        "id": 32,
+        "name": "동산참숯갈비",
+        "address": "경기 수원시 영통구 영통로 305",
+        "category": "음식점 > 한식 > 육류,고기 > 갈비",
+        "phone": "031-216-2772",
+        "url": "http://place.map.kakao.com/21511545"
+    },
+    {
+        "id": 33,
+        "name": "팔선생",
+        "address": "경기 수원시 영통구 반달로 26-1",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-202-8839",
+        "url": "http://place.map.kakao.com/10035043"
+    },
+    {
+        "id": 34,
+        "name": "이모네중앙닭발",
+        "address": "경기 수원시 영통구 청명남로34번길 18",
+        "category": "음식점 > 한식 > 육류,고기 > 닭요리",
+        "phone": "031-202-3244",
+        "url": "http://place.map.kakao.com/24167783"
+    },
+    {
+        "id": 35,
+        "name": "깡우동",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 돈까스,우동 > 깡우동",
+        "phone": "031-241-3301",
+        "url": "http://place.map.kakao.com/16719835"
+    },
+    {
+        "id": 36,
+        "name": "진달래양꼬치",
+        "address": "경기 수원시 영통구 반달로 32-1",
+        "category": "음식점 > 중식 > 양꼬치",
+        "phone": "031-205-0928",
+        "url": "http://place.map.kakao.com/2123843716"
+    },
+    {
+        "id": 37,
+        "name": "디델리 영통점",
+        "address": "경기 수원시 영통구 반달로7번길 16",
+        "category": "음식점 > 분식",
+        "phone": "031-273-2420",
+        "url": "http://place.map.kakao.com/10364399"
+    },
+    {
+        "id": 38,
+        "name": "고씨주방",
+        "address": "경기 수원시 영통구 청명남로50번길 24",
+        "category": "음식점 > 술집 > 호프,요리주점",
+        "phone": "",
+        "url": "http://place.map.kakao.com/1706326898"
+    },
+    {
+        "id": 39,
+        "name": "장터밥상",
+        "address": "경기 수원시 영통구 반달로 46",
+        "category": "음식점 > 한식",
+        "phone": "031-203-4846",
+        "url": "http://place.map.kakao.com/401445865"
+    },
+    {
+        "id": 40,
+        "name": "육장장이",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-4021",
+        "url": "http://place.map.kakao.com/255952940"
+    },
+    {
+        "id": 41,
+        "name": "삼포가는길",
+        "address": "경기 수원시 영통구 반달로 92",
+        "category": "음식점 > 한식 > 해물,생선",
+        "phone": "031-273-7772",
+        "url": "http://place.map.kakao.com/19678492"
+    },
+    {
+        "id": 42,
+        "name": "머내 영통점",
+        "address": "경기 수원시 영통구 영일로 16-5",
+        "category": "음식점 > 한식",
+        "phone": "031-204-6998",
+        "url": "http://place.map.kakao.com/9018528"
+    },
+    {
+        "id": 43,
+        "name": "청담이상 영통점",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 술집 > 일본식주점",
+        "phone": "031-203-1267",
+        "url": "http://place.map.kakao.com/890449188"
+    },
+    {
+        "id": 44,
+        "name": "청담칼국수",
+        "address": "경기 수원시 영통구 청명남로 6-1",
+        "category": "음식점 > 한식 > 국수 > 칼국수",
+        "phone": "031-232-6692",
+        "url": "http://place.map.kakao.com/1348612381"
+    },
+    {
+        "id": 45,
+        "name": "포앤드",
+        "address": "경기 수원시 영통구 청명남로 6",
+        "category": "음식점 > 아시아음식 > 동남아음식 > 베트남음식",
+        "phone": "010-5944-5455",
+        "url": "http://place.map.kakao.com/502908456"
+    },
+    {
+        "id": 46,
+        "name": "이루카",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 초밥,롤",
+        "phone": "010-2243-5078",
+        "url": "http://place.map.kakao.com/212172803"
+    },
+    {
+        "id": 47,
+        "name": "동산참숯갈비",
+        "address": "경기 수원시 영통구 영통로 305",
+        "category": "음식점 > 한식 > 육류,고기 > 갈비",
+        "phone": "031-216-2772",
+        "url": "http://place.map.kakao.com/21511545"
+    },
+    {
+        "id": 48,
+        "name": "팔선생",
+        "address": "경기 수원시 영통구 반달로 26-1",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-202-8839",
+        "url": "http://place.map.kakao.com/10035043"
+    },
+    {
+        "id": 49,
+        "name": "이모네중앙닭발",
+        "address": "경기 수원시 영통구 청명남로34번길 18",
+        "category": "음식점 > 한식 > 육류,고기 > 닭요리",
+        "phone": "031-202-3244",
+        "url": "http://place.map.kakao.com/24167783"
+    },
+    {
+        "id": 50,
+        "name": "깡우동",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 돈까스,우동 > 깡우동",
+        "phone": "031-241-3301",
+        "url": "http://place.map.kakao.com/16719835"
+    },
+    {
+        "id": 51,
+        "name": "진달래양꼬치",
+        "address": "경기 수원시 영통구 반달로 32-1",
+        "category": "음식점 > 중식 > 양꼬치",
+        "phone": "031-205-0928",
+        "url": "http://place.map.kakao.com/2123843716"
+    },
+    {
+        "id": 52,
+        "name": "디델리 영통점",
+        "address": "경기 수원시 영통구 반달로7번길 16",
+        "category": "음식점 > 분식",
+        "phone": "031-273-2420",
+        "url": "http://place.map.kakao.com/10364399"
+    },
+    {
+        "id": 53,
+        "name": "고씨주방",
+        "address": "경기 수원시 영통구 청명남로50번길 24",
+        "category": "음식점 > 술집 > 호프,요리주점",
+        "phone": "",
+        "url": "http://place.map.kakao.com/1706326898"
+    },
+    {
+        "id": 54,
+        "name": "장터밥상",
+        "address": "경기 수원시 영통구 반달로 46",
+        "category": "음식점 > 한식",
+        "phone": "031-203-4846",
+        "url": "http://place.map.kakao.com/401445865"
+    },
+    {
+        "id": 55,
+        "name": "육장장이",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-4021",
+        "url": "http://place.map.kakao.com/255952940"
+    },
+    {
+        "id": 56,
+        "name": "삼포가는길",
+        "address": "경기 수원시 영통구 반달로 92",
+        "category": "음식점 > 한식 > 해물,생선",
+        "phone": "031-273-7772",
+        "url": "http://place.map.kakao.com/19678492"
+    },
+    {
+        "id": 57,
+        "name": "머내 영통점",
+        "address": "경기 수원시 영통구 영일로 16-5",
+        "category": "음식점 > 한식",
+        "phone": "031-204-6998",
+        "url": "http://place.map.kakao.com/9018528"
+    },
+    {
+        "id": 58,
+        "name": "청담이상 영통점",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 술집 > 일본식주점",
+        "phone": "031-203-1267",
+        "url": "http://place.map.kakao.com/890449188"
+    },
+    {
+        "id": 59,
+        "name": "청담칼국수",
+        "address": "경기 수원시 영통구 청명남로 6-1",
+        "category": "음식점 > 한식 > 국수 > 칼국수",
+        "phone": "031-232-6692",
+        "url": "http://place.map.kakao.com/1348612381"
+    },
+    {
+        "id": 60,
+        "name": "포앤드",
+        "address": "경기 수원시 영통구 청명남로 6",
+        "category": "음식점 > 아시아음식 > 동남아음식 > 베트남음식",
+        "phone": "010-5944-5455",
+        "url": "http://place.map.kakao.com/502908456"
+    },
+    {
+        "id": 61,
+        "name": "이루카",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 초밥,롤",
+        "phone": "010-2243-5078",
+        "url": "http://place.map.kakao.com/212172803"
+    },
+    {
+        "id": 62,
+        "name": "동산참숯갈비",
+        "address": "경기 수원시 영통구 영통로 305",
+        "category": "음식점 > 한식 > 육류,고기 > 갈비",
+        "phone": "031-216-2772",
+        "url": "http://place.map.kakao.com/21511545"
+    },
+    {
+        "id": 63,
+        "name": "팔선생",
+        "address": "경기 수원시 영통구 반달로 26-1",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-202-8839",
+        "url": "http://place.map.kakao.com/10035043"
+    },
+    {
+        "id": 64,
+        "name": "이모네중앙닭발",
+        "address": "경기 수원시 영통구 청명남로34번길 18",
+        "category": "음식점 > 한식 > 육류,고기 > 닭요리",
+        "phone": "031-202-3244",
+        "url": "http://place.map.kakao.com/24167783"
+    },
+    {
+        "id": 65,
+        "name": "깡우동",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 돈까스,우동 > 깡우동",
+        "phone": "031-241-3301",
+        "url": "http://place.map.kakao.com/16719835"
+    },
+    {
+        "id": 66,
+        "name": "진달래양꼬치",
+        "address": "경기 수원시 영통구 반달로 32-1",
+        "category": "음식점 > 중식 > 양꼬치",
+        "phone": "031-205-0928",
+        "url": "http://place.map.kakao.com/2123843716"
+    },
+    {
+        "id": 67,
+        "name": "디델리 영통점",
+        "address": "경기 수원시 영통구 반달로7번길 16",
+        "category": "음식점 > 분식",
+        "phone": "031-273-2420",
+        "url": "http://place.map.kakao.com/10364399"
+    },
+    {
+        "id": 68,
+        "name": "고씨주방",
+        "address": "경기 수원시 영통구 청명남로50번길 24",
+        "category": "음식점 > 술집 > 호프,요리주점",
+        "phone": "",
+        "url": "http://place.map.kakao.com/1706326898"
+    },
+    {
+        "id": 69,
+        "name": "장터밥상",
+        "address": "경기 수원시 영통구 반달로 46",
+        "category": "음식점 > 한식",
+        "phone": "031-203-4846",
+        "url": "http://place.map.kakao.com/401445865"
+    },
+    {
+        "id": 70,
+        "name": "육장장이",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-4021",
+        "url": "http://place.map.kakao.com/255952940"
+    },
+    {
+        "id": 71,
+        "name": "삼포가는길",
+        "address": "경기 수원시 영통구 반달로 92",
+        "category": "음식점 > 한식 > 해물,생선",
+        "phone": "031-273-7772",
+        "url": "http://place.map.kakao.com/19678492"
+    },
+    {
+        "id": 72,
+        "name": "머내 영통점",
+        "address": "경기 수원시 영통구 영일로 16-5",
+        "category": "음식점 > 한식",
+        "phone": "031-204-6998",
+        "url": "http://place.map.kakao.com/9018528"
+    },
+    {
+        "id": 73,
+        "name": "청담이상 영통점",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 술집 > 일본식주점",
+        "phone": "031-203-1267",
+        "url": "http://place.map.kakao.com/890449188"
+    },
+    {
+        "id": 74,
+        "name": "청담칼국수",
+        "address": "경기 수원시 영통구 청명남로 6-1",
+        "category": "음식점 > 한식 > 국수 > 칼국수",
+        "phone": "031-232-6692",
+        "url": "http://place.map.kakao.com/1348612381"
+    },
+    {
+        "id": 75,
+        "name": "포앤드",
+        "address": "경기 수원시 영통구 청명남로 6",
+        "category": "음식점 > 아시아음식 > 동남아음식 > 베트남음식",
+        "phone": "010-5944-5455",
+        "url": "http://place.map.kakao.com/502908456"
+    },
+    {
+        "id": 76,
+        "name": "이루카",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 초밥,롤",
+        "phone": "010-2243-5078",
+        "url": "http://place.map.kakao.com/212172803"
+    },
+    {
+        "id": 77,
+        "name": "동산참숯갈비",
+        "address": "경기 수원시 영통구 영통로 305",
+        "category": "음식점 > 한식 > 육류,고기 > 갈비",
+        "phone": "031-216-2772",
+        "url": "http://place.map.kakao.com/21511545"
+    },
+    {
+        "id": 78,
+        "name": "팔선생",
+        "address": "경기 수원시 영통구 반달로 26-1",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-202-8839",
+        "url": "http://place.map.kakao.com/10035043"
+    },
+    {
+        "id": 79,
+        "name": "이모네중앙닭발",
+        "address": "경기 수원시 영통구 청명남로34번길 18",
+        "category": "음식점 > 한식 > 육류,고기 > 닭요리",
+        "phone": "031-202-3244",
+        "url": "http://place.map.kakao.com/24167783"
+    },
+    {
+        "id": 80,
+        "name": "깡우동",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 돈까스,우동 > 깡우동",
+        "phone": "031-241-3301",
+        "url": "http://place.map.kakao.com/16719835"
+    },
+    {
+        "id": 81,
+        "name": "진달래양꼬치",
+        "address": "경기 수원시 영통구 반달로 32-1",
+        "category": "음식점 > 중식 > 양꼬치",
+        "phone": "031-205-0928",
+        "url": "http://place.map.kakao.com/2123843716"
+    },
+    {
+        "id": 82,
+        "name": "디델리 영통점",
+        "address": "경기 수원시 영통구 반달로7번길 16",
+        "category": "음식점 > 분식",
+        "phone": "031-273-2420",
+        "url": "http://place.map.kakao.com/10364399"
+    },
+    {
+        "id": 83,
+        "name": "고씨주방",
+        "address": "경기 수원시 영통구 청명남로50번길 24",
+        "category": "음식점 > 술집 > 호프,요리주점",
+        "phone": "",
+        "url": "http://place.map.kakao.com/1706326898"
+    },
+    {
+        "id": 84,
+        "name": "장터밥상",
+        "address": "경기 수원시 영통구 반달로 46",
+        "category": "음식점 > 한식",
+        "phone": "031-203-4846",
+        "url": "http://place.map.kakao.com/401445865"
+    },
+    {
+        "id": 85,
+        "name": "육장장이",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-4021",
+        "url": "http://place.map.kakao.com/255952940"
+    },
+    {
+        "id": 86,
+        "name": "삼포가는길",
+        "address": "경기 수원시 영통구 반달로 92",
+        "category": "음식점 > 한식 > 해물,생선",
+        "phone": "031-273-7772",
+        "url": "http://place.map.kakao.com/19678492"
+    },
+    {
+        "id": 87,
+        "name": "머내 영통점",
+        "address": "경기 수원시 영통구 영일로 16-5",
+        "category": "음식점 > 한식",
+        "phone": "031-204-6998",
+        "url": "http://place.map.kakao.com/9018528"
+    },
+    {
+        "id": 88,
+        "name": "청담이상 영통점",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 술집 > 일본식주점",
+        "phone": "031-203-1267",
+        "url": "http://place.map.kakao.com/890449188"
+    },
+    {
+        "id": 89,
+        "name": "청담칼국수",
+        "address": "경기 수원시 영통구 청명남로 6-1",
+        "category": "음식점 > 한식 > 국수 > 칼국수",
+        "phone": "031-232-6692",
+        "url": "http://place.map.kakao.com/1348612381"
+    },
+    {
+        "id": 90,
+        "name": "포앤드",
+        "address": "경기 수원시 영통구 청명남로 6",
+        "category": "음식점 > 아시아음식 > 동남아음식 > 베트남음식",
+        "phone": "010-5944-5455",
+        "url": "http://place.map.kakao.com/502908456"
+    },
+    {
+        "id": 91,
+        "name": "이루카",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 초밥,롤",
+        "phone": "010-2243-5078",
+        "url": "http://place.map.kakao.com/212172803"
+    },
+    {
+        "id": 92,
+        "name": "동산참숯갈비",
+        "address": "경기 수원시 영통구 영통로 305",
+        "category": "음식점 > 한식 > 육류,고기 > 갈비",
+        "phone": "031-216-2772",
+        "url": "http://place.map.kakao.com/21511545"
+    },
+    {
+        "id": 93,
+        "name": "팔선생",
+        "address": "경기 수원시 영통구 반달로 26-1",
+        "category": "음식점 > 중식 > 중국요리",
+        "phone": "031-202-8839",
+        "url": "http://place.map.kakao.com/10035043"
+    },
+    {
+        "id": 94,
+        "name": "이모네중앙닭발",
+        "address": "경기 수원시 영통구 청명남로34번길 18",
+        "category": "음식점 > 한식 > 육류,고기 > 닭요리",
+        "phone": "031-202-3244",
+        "url": "http://place.map.kakao.com/24167783"
+    },
+    {
+        "id": 95,
+        "name": "깡우동",
+        "address": "경기 수원시 영통구 청명남로28번길 2",
+        "category": "음식점 > 일식 > 돈까스,우동 > 깡우동",
+        "phone": "031-241-3301",
+        "url": "http://place.map.kakao.com/16719835"
+    },
+    {
+        "id": 96,
+        "name": "진달래양꼬치",
+        "address": "경기 수원시 영통구 반달로 32-1",
+        "category": "음식점 > 중식 > 양꼬치",
+        "phone": "031-205-0928",
+        "url": "http://place.map.kakao.com/2123843716"
+    },
+    {
+        "id": 97,
+        "name": "디델리 영통점",
+        "address": "경기 수원시 영통구 반달로7번길 16",
+        "category": "음식점 > 분식",
+        "phone": "031-273-2420",
+        "url": "http://place.map.kakao.com/10364399"
+    },
+    {
+        "id": 98,
+        "name": "고씨주방",
+        "address": "경기 수원시 영통구 청명남로50번길 24",
+        "category": "음식점 > 술집 > 호프,요리주점",
+        "phone": "",
+        "url": "http://place.map.kakao.com/1706326898"
+    },
+    {
+        "id": 99,
+        "name": "장터밥상",
+        "address": "경기 수원시 영통구 반달로 46",
+        "category": "음식점 > 한식",
+        "phone": "031-203-4846",
+        "url": "http://place.map.kakao.com/401445865"
+    },
+    {
+        "id": 100,
+        "name": "육장장이",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 한식 > 육류,고기",
+        "phone": "031-203-4021",
+        "url": "http://place.map.kakao.com/255952940"
+    },
+    {
+        "id": 101,
+        "name": "삼포가는길",
+        "address": "경기 수원시 영통구 반달로 92",
+        "category": "음식점 > 한식 > 해물,생선",
+        "phone": "031-273-7772",
+        "url": "http://place.map.kakao.com/19678492"
+    },
+    {
+        "id": 102,
+        "name": "머내 영통점",
+        "address": "경기 수원시 영통구 영일로 16-5",
+        "category": "음식점 > 한식",
+        "phone": "031-204-6998",
+        "url": "http://place.map.kakao.com/9018528"
+    },
+    {
+        "id": 103,
+        "name": "청담이상 영통점",
+        "address": "경기 수원시 영통구 청명남로 32",
+        "category": "음식점 > 술집 > 일본식주점",
+        "phone": "031-203-1267",
+        "url": "http://place.map.kakao.com/890449188"
+    },
+    {
+        "id": 104,
+        "name": "청담칼국수",
+        "address": "경기 수원시 영통구 청명남로 6-1",
+        "category": "음식점 > 한식 > 국수 > 칼국수",
+        "phone": "031-232-6692",
+        "url": "http://place.map.kakao.com/1348612381"
+    },
+    {
+        "id": 105,
+        "name": "포앤드",
+        "address": "경기 수원시 영통구 청명남로 6",
+        "category": "음식점 > 아시아음식 > 동남아음식 > 베트남음식",
+        "phone": "010-5944-5455",
+        "url": "http://place.map.kakao.com/502908456"
+    }
+]
